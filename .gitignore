@@ -6,6 +6,7 @@
 !gpu_client.py
 !requirements-client.txt
 !ollama-vps.ipynb
+!ollama-client.env
 
 # Ignore directories
 .venv/
