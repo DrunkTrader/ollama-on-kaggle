@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# Keep these files
+!.gitignore
+!gpu_client.py
+!requirements-client.txt
+!ollama-vps.ipynb
+
+# Ignore directories
+.venv/
+extra/
+
+# Ignore sensitive credentials
+.env
